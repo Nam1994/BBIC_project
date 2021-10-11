@@ -1,0 +1,17 @@
+{
+  "form_info": {
+    "name": "KHANH DO DANG",
+    "company": "KMS",
+    "email": "KhanhDo@gmail.com",
+    "note": "nam123",
+    "amount": "500"
+
+  },
+  "info_credit": {
+    "numbers_card": "5555555555554444",
+    "exp_date": "1221",
+    "cvc": "127",
+    "postal": "70000"
+
+  }
+}
